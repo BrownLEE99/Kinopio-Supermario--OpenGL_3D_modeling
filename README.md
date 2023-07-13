@@ -4,6 +4,9 @@ https://github.com/BrownLEE99/Kinopio-Supermario--OpenGL_3D_modeling/assets/1370
 
 [20182601_김찬일 20182646_이현수.pptx](https://github.com/BrownLEE99/Kinopio-Supermario--OpenGL_3D_modeling/files/12040370/20182601_.20182646_.pptx)
 
+# 텍스쳐 매핑
+- SOIL2 라이브러리를 이용하였다
+
 # 반구체 생성
 ![HalfSphere](https://github.com/BrownLEE99/Kinopio-Supermario--OpenGL_3D_modeling/assets/137032025/ce06e6c0-c809-4a06-9ac5-f3a253913114)
 - 문제 : 일반적인 구체 생성의 경우 gluSphere을 통해 생성하면 됐지만 반구를 만드는 함수는 없었다
@@ -56,3 +59,6 @@ void halfSphere() {
     }
 }
 ```
+
+# 개선해야 할 점
+- 퀄리티를 높이기 위해 게임기 안에 광원을 추가할려고 했지만 실패하였다
