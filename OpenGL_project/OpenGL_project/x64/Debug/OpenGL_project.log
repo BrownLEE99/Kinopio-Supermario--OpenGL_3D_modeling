@@ -1,0 +1,46 @@
+﻿  OpenGL_project.cpp
+OpenGL_project.obj : error LNK2019: SOIL_load_OGL_texture"void __cdecl loadTexture(void)" (?loadTexture@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glBegin"void __cdecl background(void)" (?background@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glBindTexture"void __cdecl background(void)" (?background@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glClear"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glClearColor"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glColor3f"void __cdecl arm(void)" (?arm@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glDisable"void __cdecl background(void)" (?background@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glEnable"void __cdecl background(void)" (?background@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glEnd"void __cdecl background(void)" (?background@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glFlush"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glLoadIdentity"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glMatrixMode"void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glNormal3f"void __cdecl halfSphere(void)" (?halfSphere@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glPopMatrix"void __cdecl arm(void)" (?arm@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glPushMatrix"void __cdecl arm(void)" (?arm@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glRotatef"void __cdecl arm(void)" (?arm@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glScalef"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glTexCoord2f"void __cdecl background(void)" (?background@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glTexParameteri"void __cdecl loadTexture(void)" (?loadTexture@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glTranslatef"void __cdecl arm(void)" (?arm@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glVertex3f"void __cdecl background(void)" (?background@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: __imp_glViewport"void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: gluPerspective"void __cdecl reshape(int,int)" (?reshape@@YAXHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: gluNewQuadric"void __cdecl arm(void)" (?arm@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: gluQuadricTexture"void __cdecl face(void)" (?face@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: gluCylinder"void __cdecl arm(void)" (?arm@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: gluSphere"void __cdecl face(void)" (?face@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: glutInitmain 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: glutInitDisplayModemain 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: glutInitWindowSizemain 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: glutMainLoopmain 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: glutCreateWindowmain 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: glutPostRedisplay"void __cdecl keyboard(unsigned char,int,int)" (?keyboard@@YAXEHH@Z) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: glutSwapBuffers"void __cdecl display(void)" (?display@@YAXXZ) 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: glutDisplayFuncmain 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: glutReshapeFuncmain 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: glutKeyboardFuncmain 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: glutMouseFuncmain 함수에서 참조되는 확인할 수 없는 외부 기호
+OpenGL_project.obj : error LNK2019: glutMotionFuncmain 함수에서 참조되는 확인할 수 없는 외부 기호
+C:\Users\chan\Documents\GitHub\OpenGL_project\lib\opengl32.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\chan\Documents\GitHub\OpenGL_project\lib\glu32.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\chan\Documents\GitHub\OpenGL_project\lib\glut32.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\chan\Documents\GitHub\OpenGL_project\lib\glaux.lib : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\chan\Documents\GitHub\OpenGL_project\lib\soil\Simple OpenGL Image Library\lib\libSOIL.a : warning LNK4272: 'x86' 라이브러리 컴퓨터 종류가 'x64' 대상 컴퓨터 종류와 충돌합니다.
+C:\Users\chan\Documents\GitHub\OpenGL_project\x64\Debug\OpenGL_project.exe : fatal error LNK1120: 39개의 확인할 수 없는 외부 참조입니다.
